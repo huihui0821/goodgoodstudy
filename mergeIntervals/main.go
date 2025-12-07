@@ -5,6 +5,7 @@ import (
 	"sort"
 )
 
+// 区间合并
 func main() {
 	arrs := [][]int{{2, 4}, {1, 3}, {5, 7}, {8, 10}}
 	fmt.Printf("arrs: %v\n", arrs)
